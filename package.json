@@ -27,5 +27,6 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
+  "homepage": "https://1franken11.github.io/turner-app",
   "private": true
 }
